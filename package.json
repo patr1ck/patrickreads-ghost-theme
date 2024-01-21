@@ -1,8 +1,8 @@
 {
-    "name": "ghost-starter-theme",
-    "description": "A starter theme for Ghost theme development",
-    "demo": "https://starter.ghost.io",
-    "version": "2.0.1",
+    "name": "patrickreads",
+    "description": "Ghost theme for patrickreads.org",
+    "demo": "https://patrickreads.org",
+    "version": "1.0.0",
     "engines": {
         "ghost": ">=5.0.0"
     },
@@ -18,15 +18,15 @@
         "pretest": "npm run build"
     },
     "author": {
-        "name": "Ghost Foundation",
-        "email": "hello@ghost.org",
-        "url": "https://ghost.org"
+        "name": "Patrick B. Gibson",
+        "email": "patrick@fadeover.org",
+        "url": "https://patrickbgibson.com"
     },
     "gpm": {
         "type": "theme",
         "categories": [
             "Minimal",
-            "Magazine"
+            "Linkblog"
         ]
     },
     "keywords": [
@@ -36,10 +36,10 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/TryGhost/Starter.git"
+        "url": "https://github.com/patr1ck/patrickreads-ghost-theme.git"
     },
-    "bugs": "https://github.com/TryGhost/Starter/issues",
-    "contributors": "https://github.com/TryGhost/Starter/graphs/contributors",
+    "bugs": "https://github.com/patr1ck/patrickreads-ghost-theme/issues",
+    "contributors": "https://github.com/patr1ck/patrickreads-ghost-theme/graphs/contributors",
     "devDependencies": {
         "@babel/core": "^7.21.0",
         "@babel/preset-env": "^7.20.2",
